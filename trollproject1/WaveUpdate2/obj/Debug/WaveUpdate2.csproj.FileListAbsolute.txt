@@ -1,0 +1,12 @@
+C:\Users\a\source\repos\WaveUpdate2\bin\Debug\WaveUpdate2.exe.config
+C:\Users\a\source\repos\WaveUpdate2\bin\Debug\WaveUpdate2.exe
+C:\Users\a\source\repos\WaveUpdate2\bin\Debug\WaveUpdate2.pdb
+C:\Users\a\source\repos\WaveUpdate2\bin\Debug\MaterialSkin.dll
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpdate2.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpdate2.Form1.resources
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpdate2.Properties.Resources.resources
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpdate2.csproj.GenerateResource.cache
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpdate2.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpda.5BE266D1.Up2Date
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpdate2.exe
+C:\Users\a\source\repos\WaveUpdate2\obj\Debug\WaveUpdate2.pdb
